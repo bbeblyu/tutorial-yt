@@ -9,7 +9,7 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('https://example.com/background.jpg'); /* Ganti dengan URL gambar latar belakang */
+            background-image: url('https://example.com/background.jpg'); 
             background-size: cover;
             background-position: center;
         }
